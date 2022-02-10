@@ -9,7 +9,7 @@ Link to current implementation: https://silly-neumann-630202.netlify.app
 
 This repository was submitted to the Integrating UNS “Login With Unstoppable” gitcoin bounty.
 
-Video demo of the login with unstoppable feature https://vimeo.com/675889411
+Video demo of the login with unstoppable feature https://vimeo.com/676082321
 
 
 ### Contact information
